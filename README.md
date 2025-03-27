@@ -4,5 +4,11 @@
 🎶 Techno is the vibe, but Bollywood is the heart ❤️  
 🏋️‍♂️ Gym enthusiast | 🍳 Passionate cook | 🎧 Music mixer  
 
-Let's connect and vibe to the rhythm of cybersecurity and music! 🔒🎶
+
+
+- 🛡️ SOC/SOAR
+- ☁️ Cloud Security (Azure, AWS , Google)
+- 🐍 Python
+
+Let's connect and vibe to the rhythm of security and music! 🔒🎶
 
