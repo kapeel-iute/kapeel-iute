@@ -1,14 +1,7 @@
-👋 Hi there! I'm Kapil
 
-💻 Security Engineer | 🎓 Master's in Cybersecurity  
-🎶 Techno is the vibe, but Bollywood is the heart ❤️  
-🏋️‍♂️ Gym enthusiast | 🍳 Passionate cook | 🎧 Music mixer  
+👋 Hi, I'm Kapil — a Security Engineer with a Master's in Cybersecurity. 
+I’m passionate about automation, cloud security (Azure, AWS, Google), and scripting with Python. 
+When I’m not diving into logs or tweaking SOAR playbooks, I’m mixing music, lifting weights, or experimenting in the kitchen. 
 
-
-
-- 🛡️ SOC/SOAR
-- ☁️ Cloud Security (Azure, AWS , Google)
-- 🐍 Python
-
-Let's connect and vibe to the rhythm of security and music! 🔒🎶
+Let's connect and vibe to the rhythm of security and creativity. 🔐🎵
 
